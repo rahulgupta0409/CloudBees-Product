@@ -21,7 +21,7 @@ Follow these steps to run and test this Product application.
 ### 1. Clone the Repository
 Clone the repository using the command
 ~~~ 
-https://github.com/rahulgupta0409/cloudbees-product.git
+git clone https://github.com/rahulgupta0409/cloudbees-product.git
 ~~~
 ```
 cd cloudbees-product
